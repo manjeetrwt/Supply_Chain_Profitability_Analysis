@@ -46,5 +46,5 @@ Supply_Chain_Profitability_Analysis/
 │   ├── APL_Logistics_Cleaned.csv
 │   └── APL_Logistics_Segmented.csv
 │
-├── Project_Report.html                # Executive styled dashboard report HTML
+├── Project_Report.txt                # Executive styled dashboard report 
 └── README.md                          # Repository main landing briefing
