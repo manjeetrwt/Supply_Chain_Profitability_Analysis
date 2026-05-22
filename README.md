@@ -9,7 +9,7 @@ Traditional supply chain reporting frameworks heavily prioritize volume-based me
 This repository contains an end-to-end commercial intelligence engine built for **APL Logistics** using **171,860 clean transaction records**. By implementing a strict python financial validation pipeline, multi-dimensional exploratory diagnostics, and an unsupervised machine learning model (K-Means Clustering), this platform successfully exposes hidden profit leaks and provides an interactive simulation layer for executive decision-making.
 
 ### 📊 Core Financial Matrix Uncovered
-* **Total Clean Revenue Volume Analyzed:** `$35,088,763.20`
+* **Total Clean Revenue Volume Analyzed:** `$35,088,763.20` 
 * **Net Operational Profitability:** `$3,795,103.65`
 * **Global Corporate Net Profit Margin:** `10.82%`
 
